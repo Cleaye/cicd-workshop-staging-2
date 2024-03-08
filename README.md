@@ -1,1 +1,1 @@
-# cicd-workshop-staging-2
+# cicd-workshop-staging
